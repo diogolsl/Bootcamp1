@@ -1,0 +1,1 @@
+Simples script para introduzir funcionalidades ao github.
